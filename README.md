@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Tanvi Singla</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Aspiring Data Scientist & ML Engineer</h3>
 
 - 💞️ I’m looking to collaborate on **Artificial Intelligence and Machine Learning projects.**
 
